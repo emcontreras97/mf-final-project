@@ -1,0 +1,6 @@
+body {
+    /* background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%); */
+    /* background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%); */
+    background: rgb(222,98,150);
+background: radial-gradient(circle, rgba(222,98,150,1) 0%, rgba(253,187,45,1) 100%);
+}
